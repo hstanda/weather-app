@@ -3,3 +3,4 @@ https://hstanda-weatherapp.herokuapp.com/
 
 For running local machine use 
 `npm run start dev`
+
