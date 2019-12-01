@@ -21,7 +21,7 @@ app.use(express.static(publicPath))
 app.get('', (request, response)=>{
     response.render('index', {
         title:'Weather app', 
-        message: 'Wether app',
+        message: 'Weather app',
         createdBy: 'Harjeevan Tanda'
     })
 })
@@ -29,7 +29,7 @@ app.get('', (request, response)=>{
 app.get('/about', (request, response)=>{
     response.render('about', {
         title:'About', 
-        message: 'This is a weather app for learing Node js created with help of ',
+        message: 'This is a weather app for learing Node js, created with help of darksky.com and mapbox.com',
         createdBy: 'Harjeevan Tanda'
     })
 })
