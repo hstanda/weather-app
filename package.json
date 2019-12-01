@@ -13,7 +13,9 @@
   "dependencies": {
     "express": "^4.16.4",
     "hbs": "^4.0.6",
-    "request": "^2.88.0"
+    "request": "^2.88.0",
+    "minimatch": "^3.0.2",
+    "semver": ">=4.3.2"
   },
   "devDependencies": {
     "nodemon": "^1.2.0"
