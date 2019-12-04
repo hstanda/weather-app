@@ -3,3 +3,6 @@ https://hstanda-weatherapp.herokuapp.com/
 
 For running local machine use
 `npm run start dev`
+
+local url for
+http://localhost:3000/
