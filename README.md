@@ -1,6 +1,3 @@
-Public link for app 
-https://hstanda-weatherapp.herokuapp.com/
-
 For running local machine use 
 ## Installation
 * Install [NodeJS](https://nodejs.org/en/download/)
